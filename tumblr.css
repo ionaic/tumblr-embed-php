@@ -1,0 +1,108 @@
+/* post main div */
+.tumblr-post {
+
+}
+
+/* container for the main content */
+.tumblr-content {
+	
+}
+
+/* tag container */
+.tumblr-tags {
+
+}
+/* tag formatting */
+.tumblr-tag {
+
+}
+.tumblr-tag:before {
+    content: "#";
+}
+
+/* date */
+.tumblr-date {
+	
+}
+/* link to the original post */
+.tumblr-post-link {
+	
+}
+
+/* for post titles */
+.tumblr-title {
+	
+}
+
+/* post text body */
+.tumblr-post-body {
+	
+}
+
+/* photo galleries */
+.tumblr-gallery {
+	
+}
+.tumblr-image {
+
+}
+
+/* for captions */
+.tumblr-caption {
+	
+}
+
+/* for quote posts */
+.tumblr-quote-text {
+
+}
+.tumblr-quote-source {
+
+}
+.tumblr-quote-source:before {
+	content: "-";
+}
+
+/* for links */
+.tumblr-link {
+	
+}
+.tumblr-url {
+	
+}
+.tumblr-description {
+	
+}
+
+/* for chat posts */
+.tumblr-chat-line {
+	
+}
+.tumblr-chat-label {
+
+}
+.tumblr-chat-text {
+	
+}
+
+/* video and audio players */
+.tumblr-player {
+	
+}
+
+/* for question posts */
+.tumblr-question-link {
+	
+}
+.tumblr-question-name {
+	
+}
+.tumblr-question {
+	
+}
+.tumblr-question-body {
+	
+}
+.tumblr-answer {
+	
+}

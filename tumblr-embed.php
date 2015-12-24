@@ -1,7 +1,7 @@
 <?php
 	$url_base = "https://api.tumblr.com/v2/blog/";
-	$blog_url = "rocket-penguin.tumblr.com";
-	$api_key = "sqMpPQJKHzMJBgVbxNBhi7kgM4ISzPstxKYNLlKbbUZIG4Ewfy";
+	$blog_url = "staff.tumblr.com";
+	$api_key = "";
 	$post_num = 10;
 	$full_url = $url_base . $blog_url . "/posts/?api_key=" . $api_key . "&limit=" . $post_num;
 	$json_str = file_get_contents($full_url);
